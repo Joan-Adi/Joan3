@@ -1,0 +1,77 @@
+<html>
+
+<head>
+<title>
+Mountains
+</title>
+</head>
+
+<body>
+
+
+<header>
+<center>
+<h1>
+<b> Tallest Mountains </b>
+</h1>
+</center>
+
+<p>
+</p>
+
+<center>
+<img src="Images/mountains logo.jpg"  width="110px"/>
+</center>
+<hr/>
+
+<center>
+<a href="index.html"> Home <a/> &nbsp; &nbsp; &nbsp;
+<a href="China.html"> China <a/> &nbsp; &nbsp; &nbsp;
+<a href="Pakistan.html"> Pakistan <a/> &nbsp; &nbsp; &nbsp;
+</center>
+<hr/>
+
+</header>
+
+<center>
+<img src="Images/Mountains banner.jpg"  width="1300px"/>
+</center>
+
+<p>
+</p>
+
+<center>
+<div class="container">
+   <div class="row">
+     <div class="col-md-3">
+<h2> Mount Everest </h2>
+       <img src="Images/Mount-Everest.jpg"  width="300px"/>
+          <p> Mount Everest is the tallest mountain in the world! It's summit is the border of Nepal to the south and China or Tibet on the north.
+             It is over 60 million years old and it's height is 29,035 feet or 8848 meters high.
+       </div>
+      <div class="col-md-3">
+ <h2> Mt. Makalu </h2>
+       <img src="Images/Makalu.jpg" width="300px"/>
+          <p> Mt. Makalu is the 5th tallest mountain in the world and is located between the borders of China and Nepal and is 8,485 metres (27,838 ft) tall</p>
+              </div>
+          <div class="col-md-3">
+<h2> Broad Peak </h2>
+       <img src="Images/BroadPeak.jpg" width="300px"/>
+          <p> Broad Peakis a mountain located in Karakoram on the border of both Pakistan and China it is also the 12th highest mountain in the world with the height of 8,047 metres (26,401 ft) (which is above sea level). 
+              It was first climbed by Fritz Wintersteller, Marcus Schmuck, Kurt Diemberger, and Hermann Buhl of an Austrian expedition in June 1957.</p>
+              </div>
+ <div class="col-md-3">
+           <h2> Kangchenjunga </h2>
+       <img src="Images/Kangchenjunga.jpg" width="300px"/>
+          <p> Kangchenjunga which could also be spelled Kanchenjunga, 
+             is the third highest mountain in the world. It rises with a height of 8,586 m (28,169 ft).</p>
+              </div>
+</div>
+</div>
+
+</center>
+
+</main>
+</body>
+
+</html>
