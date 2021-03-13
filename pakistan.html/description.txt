@@ -1,0 +1,54 @@
+<html>
+
+<head>
+<title>
+Mountains
+</title>
+</head>
+
+<body>
+
+
+<header>
+<center>
+<h1>
+<b> Pakistan </b>
+</h1>
+</center>
+
+<p>
+</p>
+
+<center>
+<img src="Images/mountains logo.jpg"  width="110px"/>
+</center>
+<hr/>
+
+<center>
+<a href="index.html"> Home <a/> &nbsp; &nbsp; &nbsp;
+<a href="China.html"> China <a/> &nbsp; &nbsp; &nbsp;
+<a href="Pakistan.html"> Pakistan <a/> &nbsp; &nbsp; &nbsp;
+</center>
+<hr/>
+
+<center>
+<h2> 
+<b> Istor-o-Nal </b> 
+</h2>
+</center>
+<center>
+<img src="Images/Istor-o-Nal.jpg"  width="600px"/>
+</center>
+<center>
+<h3>
+<p>Istor-o-Nal is the third highest mountain in the Hindu Kush, in the Chitral District of the North-West Frontier Province of Pakistan.
+ It is the 68th highest independent peak in the world. It is 7,000 m (22,966 ft) tall in height. 
+ Because Istor-o-Nal is behind the higher peak of Tirich Mir from many viewpoints, it is not easily visible and therefore not well known.</p>
+</h3>
+</center>
+
+
+</main>
+</body>
+
+</html>
